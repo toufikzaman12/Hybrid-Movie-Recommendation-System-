@@ -1,7 +1,6 @@
 
 # Comparative Analysis of Hybrid Movie Recommendation Systems
 
-This repository contains the source code, datasets, and documentation for the project titled "Comparative Analysis of Hybrid Movie Recommendation Systems." The project was developed as part of a summer internship at NIT Sikkim by students from Jalpaiguri Government Engineering College.
 
 ## Introduction
 
