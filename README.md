@@ -1,4 +1,4 @@
-# Hybrid-Movie-Recommendation-System-
+
 # Comparative Analysis of Hybrid Movie Recommendation Systems
 
 This repository contains the source code, datasets, and documentation for the project titled "Comparative Analysis of Hybrid Movie Recommendation Systems." The project was developed as part of a summer internship at NIT Sikkim by students from Jalpaiguri Government Engineering College.
@@ -9,9 +9,9 @@ Recommender systems are crucial in many domains, especially in online platforms 
 
 ## Team Members
 
-- **Basudeb Roy** (Roll no-21101106043)
-- **SK Rajesh** (Roll no-21101106054)
-- **Md Toufikzaman** (Roll no-21101106051)
+- **Basudeb Roy**
+- **SK Rajesh** 
+- **Md Toufikzaman**
 
 ## Mentorship
 
@@ -108,12 +108,6 @@ This project successfully developed and evaluated three hybrid movie recommendat
 ## Acknowledgements
 
 We would like to express our gratitude to our mentors, Dr. Bam Bahadur Sinha and Dr. Pratyay Kuila, for their invaluable guidance and support. We also thank NIT Sikkim for providing the resources necessary to carry out this project. Special thanks to our families, friends, and peers for their encouragement throughout this journey.
-
-## References
-
-- [Reference 1: Hybrid Recommendation Systems - A Review](#)
-- [Reference 2: Evaluating Recommender Systems](#)
-- [Reference 3: Singular Value Decomposition in Collaborative Filtering](#)
 
 ## Appendix
 
