@@ -2,11 +2,21 @@
 # Comparative Analysis of Hybrid Movie Recommendation Systems
 
 
-![gif 1](https://github.com/user-attachments/assets/c226fff6-8005-435d-9139-49359f3a91bf)
 
-## Introduction
-
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+     <td style="border: none; vertical-align: top;">
+     ## Introduction
 Recommender systems are crucial in many domains, especially in online platforms like Netflix, Amazon, and YouTube, where personalized content delivery is essential. This project focuses on developing and comparing three hybrid movie recommendation systems that integrate both content-based and collaborative filtering techniques. The goal is to analyze the effectiveness of these systems in providing accurate and relevant movie recommendations.
+    </td>
+    <td style="border: none;">
+      ![gif 1](https://github.com/user-attachments/assets/c226fff6-8005-435d-9139-49359f3a91bf)
+
+    </td>
+  </tr>
+</table>
+
+
 
 ## Team Members
 
@@ -21,7 +31,7 @@ Recommender systems are crucial in many domains, especially in online platforms 
 - **Dr. Pratyay Kuila**  
   Assistant Professor, Computer Science and Engineering Department, NIT Sikkim
 
-## Internship Duration
+## ⏳ Internship Duration
 
 - **8 weeks** (19 June - 15 August 2024)
 
