@@ -2,16 +2,15 @@
 # Comparative Analysis of Hybrid Movie Recommendation Systems
 
 
-
+ ## Introduction
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
      <td style="border: none; vertical-align: top;">
-     ## Introduction
+    
 Recommender systems are crucial in many domains, especially in online platforms like Netflix, Amazon, and YouTube, where personalized content delivery is essential. This project focuses on developing and comparing three hybrid movie recommendation systems that integrate both content-based and collaborative filtering techniques. The goal is to analyze the effectiveness of these systems in providing accurate and relevant movie recommendations.
     </td>
     <td style="border: none;">
-      ![gif 1](https://github.com/user-attachments/assets/c226fff6-8005-435d-9139-49359f3a91bf)
-
+     <img src="[https://www.digitalogy.co/blog/wp-content/uploads/2019/03/Machine-Learning.gif](https://www.google.com/imgres?q=Movie%20Recommendation%20Systems%20gif%20image&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A996%2F1*irYPuCEnggrGmkVbMgEe2g.gif&imgrefurl=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fmovie-recommender-system-using-content-based-and-collaborative-filtering-84a98b9bd98e&docid=AzUKM3yI246vAM&tbnid=1gTLByqhBcwzbM&vet=12ahUKEwiyhJOv-oiIAxWSka8BHfyKDeEQM3oECBkQAA..i&w=498&h=480&hcb=2&ved=2ahUKEwiyhJOv-oiIAxWSka8BHfyKDeEQM3oECBkQAA)" alt="ML GIF" width="300"/>
     </td>
   </tr>
 </table>
