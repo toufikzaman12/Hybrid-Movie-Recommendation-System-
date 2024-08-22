@@ -121,4 +121,7 @@ This project successfully developed and evaluated three hybrid movie recommendat
 We would like to express our gratitude to our mentors, Dr. Bam Bahadur Sinha and Dr. Pratyay Kuila, for their invaluable guidance and support. We also thank NIT Sikkim for providing the resources necessary to carry out this project. Special thanks to our families, friends, and peers for their encouragement throughout this journey.
 
 
+ ## License
+
+This project is licensed under the NIT Sikkim License. For more details, see the [LICENSE](LICENSE) file.
 
