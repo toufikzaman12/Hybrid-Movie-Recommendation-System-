@@ -1,7 +1,8 @@
 
 # Comparative Analysis of Hybrid Movie Recommendation Systems
 
-![Uploading gif 1.gif…]()
+
+![gif 1](https://github.com/user-attachments/assets/c226fff6-8005-435d-9139-49359f3a91bf)
 
 ## Introduction
 
