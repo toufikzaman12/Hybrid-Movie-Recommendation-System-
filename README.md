@@ -120,9 +120,5 @@ This project successfully developed and evaluated three hybrid movie recommendat
 
 We would like to express our gratitude to our mentors, Dr. Bam Bahadur Sinha and Dr. Pratyay Kuila, for their invaluable guidance and support. We also thank NIT Sikkim for providing the resources necessary to carry out this project. Special thanks to our families, friends, and peers for their encouragement throughout this journey.
 
-## Appendix
 
-- **Appendix A**: Detailed Code Implementation and Explanations
-- **Appendix B**: Additional Experiments and Performance Metrics
-- **Appendix C**: User Study and Feedback
 
